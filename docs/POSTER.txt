@@ -1,0 +1,25 @@
+POSTER PROYEK
+
+Judul:
+Sistem Manajemen Rumah Sakit Berbasis Object-Oriented Programming
+
+Masalah:
+Pencatatan pasien, dokter, obat, dan pemeriksaan secara manual dapat memperlambat proses layanan dan pelaporan.
+
+Solusi:
+Aplikasi Python berbasis OOP untuk mengelola data rumah sakit secara sederhana, terstruktur, dan mudah digunakan.
+
+Fitur:
+- Kelola dokter
+- Kelola pasien
+- Kelola obat dan stok
+- Kelola pemeriksaan
+- Rekam medis sederhana
+- Laporan ringkas
+- Penyimpanan JSON
+
+Konsep OOP:
+Class, object, inheritance, encapsulation, polymorphism, composition, constructor, dan method.
+
+Teknologi:
+Python 3, VS Code, JSON, unittest.

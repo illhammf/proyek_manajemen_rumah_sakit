@@ -1,0 +1,11 @@
+
+test_pemeriksaan_dan_total_biaya (test_rumah_sakit.TestRumahSakit.test_pemeriksaan_dan_total_biaya) ... ok
+test_pencarian_pasien (test_rumah_sakit.TestRumahSakit.test_pencarian_pasien) ... ok
+test_persistensi_json (test_rumah_sakit.TestRumahSakit.test_persistensi_json) ... ok
+test_selesaikan_pemeriksaan (test_rumah_sakit.TestRumahSakit.test_selesaikan_pemeriksaan) ... ok
+test_tambah_data_dasar (test_rumah_sakit.TestRumahSakit.test_tambah_data_dasar) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.029s
+
+OK

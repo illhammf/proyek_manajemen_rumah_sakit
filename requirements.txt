@@ -1,0 +1,1 @@
+# Tidak memakai library eksternal. Cukup Python 3.10 atau lebih baru.

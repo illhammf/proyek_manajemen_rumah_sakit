@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "id_person": "D001",
+        "nama": "Ilham",
+        "alamat": "Kp Kadu Jaya",
+        "telepon": "0895336900466",
+        "spesialis": "Kandungan",
+        "jadwal_praktik": "07.00"
+    }
+]
